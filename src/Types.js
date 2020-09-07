@@ -8,7 +8,7 @@
  */
 
 import { Animated, ViewStyle } from "react-native";
-import { SpringScrollViewPropType } from "react-native-spring-scrollview";
+import { SpringScrollViewPropType } from "@youngtailors/react-native-spring-scrollview";
 
 export type LargeListDataType = { items: any[] }[];
 

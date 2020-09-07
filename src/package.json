@@ -1,5 +1,5 @@
 {
-	"name": "react-native-largelist-v3",
+	"name": "@grewer/react-native-largelist-v3",
 	"version": "3.0.15",
 	"private": false,
 	"description": "The best performance large list component which is much better than SectionList for React Native.",
@@ -28,7 +28,7 @@
 		"react": "^16.3.1",
 		"react-native": "^0.50.0",
 		"prop-types": "^15.6.0",
-		"react-native-spring-scrollview": "^2.0.16"
+		"@youngtailors/react-native-spring-scrollview": "^2.1.0"
 	},
 	"devDependencies": {
 		"babel-jest": "21.2.0",
